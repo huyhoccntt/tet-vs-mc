@@ -1,0 +1,8 @@
+[17:51:07] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.1+8-LTS; Eclipse Adoptium Temurin-25.0.1+8) on Windows 11 10.0 (amd64)
+[17:51:07] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) for Minecraft 1.21.10
+[17:51:08] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:51:08] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[17:51:08] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - AuthMeVelocity (4.2.0)
+[17:51:08] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - SkinsRestorer (15.9.0), ToggleableKeepInventory (1.0.0)
